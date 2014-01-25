@@ -17,7 +17,7 @@ namespace TestProj
             Console.WriteLine("ez egy zsolt változtatás");
             Console.WriteLine("ez egy zsolt változtatás");
             Console.WriteLine("ez egy zsolt változtatás");
-            //Javítva
+            //Javítvasdfsds
             Console.ReadKey();
         }
     }
