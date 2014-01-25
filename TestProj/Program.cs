@@ -11,6 +11,7 @@ namespace TestProj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("ez egy zsolt változtatás");
             //comment ez van vag ynemdfff
             Console.ReadKey();
         }
