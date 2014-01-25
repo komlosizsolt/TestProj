@@ -13,6 +13,7 @@ namespace TestProj
             Console.WriteLine("Hello");
             Console.WriteLine("ez egy zsolt változtatás");
             //Javítva
+            //Új változtatás
             Console.ReadKey();
         }
     }
