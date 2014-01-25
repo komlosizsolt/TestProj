@@ -12,7 +12,7 @@ namespace TestProj
         {
             Console.WriteLine("Hello");
             Console.WriteLine("ez egy zsolt változtatás");
-            //comment ez van vag ynemdfff
+            //Javítva
             Console.ReadKey();
         }
     }
