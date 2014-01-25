@@ -11,7 +11,7 @@ namespace TestProj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-            //comment
+            //comment ez van vag ynem
             Console.ReadKey();
         }
     }
